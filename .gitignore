@@ -1,4 +1,9 @@
 .Rproj.user
+<<<<<<< HEAD
 .Rhistory
 .RData
 .Ruserdata
+=======
+.swp
+.swo
+>>>>>>> develop
