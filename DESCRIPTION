@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title: UCLA Biostat M280 Homework.
 Version: 0.1.0
 Date: 2019-02-05
@@ -30,3 +31,12 @@ Imports:
 Suggests:
 
 RoxygenNote: 5.0.1
+=======
+Title: HW2
+Date: 2019-02-08
+Author: Yu Xia
+URL: https://github.com/rainyuxia0112/biostat-m280-2019-winter
+Imports:
+    rmarkdown
+    Rcpp
+>>>>>>> develop
