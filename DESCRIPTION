@@ -1,0 +1,32 @@
+Title: UCLA Biostat M280 Homework.
+Version: 0.1.0
+Date: 2019-02-05
+Author: Yu Xia [aut, cre]
+Authors@R: c(person(given = "Yu", family = "Xia",
+    role = c("aut", "cre"), email = "xiayu960112@g.ucla.edu"),
+Maintainer: Yu Xia <xiayu960112@g.ucla.edu>
+Description: Assignments for Biostat M280 at UCLA.
+License: MIT + file LICENSE
+URL: https://github.com/rainyuxia0112/biostat-m280-2019-winter
+BugReports: https://github.com/palEON-Project/stepps-baconizing/issues
+Depends:
+    R (>= 2.10)
+Imports:
+    neotoma,
+    rmarkdown,
+    purrr,
+    ggplot2,
+    plyr,
+    reshape2,
+    mgcv,
+    Bchron,
+    viridis,
+    dplyr,
+    readr,
+    gridExtra,
+    knitr,
+    svglite,
+    purrrlyr
+Suggests:
+
+RoxygenNote: 5.0.1
