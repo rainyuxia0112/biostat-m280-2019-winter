@@ -2,7 +2,9 @@ Title: HW2
 Date: 2019-02-07
 Author: Yu Xia
 URL: https://github.com/rainyuxia0112/biostat-m280-2019-winter
-
+Depends:
+    R (>= 3.5.2)
 Imports:
     rmarkdown
     Rcpp
+Encoding: UTF-8#
