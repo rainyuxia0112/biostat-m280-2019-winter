@@ -16,11 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. Read the blog post [_Adding CI To RMarkdown Documents_](http://www.goring.org/resources/Adding_CI_To_RMarkdown.html) by Simon Goring. Understand what is continuous integration (CI) and why we need CI.
 
-  **Done**
-
 2. Set up Travis CI for your homework 2 solution, e.g., `hw2sol.Rmd`. Graders will look for a CI passing badge on the `README.Rmd` page of your repository:
-
-  **Done**
 
 <p align="center">
   <img src="./passing.svg" height="175">
@@ -44,8 +40,6 @@ The FizzBuzz test is a common programming interview question used to establish i
 ## Q3. Rcpp
 
 1. Read the online book [_Rcpp For Everyone_](https://teuder.github.io/rcpp4everyone_en/) by Masaki E. Tsuda.
-
-  **Done**
 
 2. Re-do FizzBuzz test using Rcpp. 
 
