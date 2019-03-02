@@ -13,7 +13,10 @@ r_packages:
   - dplyr
   - readr
   - gridExtra
+<<<<<<< HEAD
+=======
   - Rcpp
+>>>>>>> develop
 os:
   - linux
   - osx
